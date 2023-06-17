@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jye</h1>
 <h3 align="center">A developer from Australia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jye-au&label=Profile%20views&color=0e75b6&style=flat" alt="jye-au" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jye-au&label=Profile%20views&color=0e75b6&style=flat" alt="jye-au" /> <a href="https://discord.gg/PSqXgg8v8M" title=""><img alt="Discord Status" src="https://discordapp.com/api/guilds/807309391849062480/widget.png"></a> </p>
 
 - 🔭 I’m currently working on **[cc-chat](https://github.com/Concept-Collective/cc-chat)**
 
